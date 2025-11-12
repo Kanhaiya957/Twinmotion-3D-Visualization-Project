@@ -34,12 +34,7 @@ Below are sample renders from the project:
 |--------|--------------|
 | ![Render1](https://github.com/Kanhaiya957/Twinmotion-3D-Visualization-Project/blob/main/WhatsApp%20Image%202025-11-12%20at%2021.52.39_907184a3.jpg) | Entrance and parking view |
 | ![Render2](https://github.com/Kanhaiya957/Twinmotion-3D-Visualization-Project/blob/main/WhatsApp%20Image%202025-11-12%20at%2021.53.10_8ee9cc4b.jpg) | Top view showing layout and lighting |
-| ![Render3](./images/render3.jpg) | Building elevation and pathway |
-| ![Render4](./images/render4.jpg) | Overall site view with landscaping |
 
-> (Replace the above image paths with your actual render image filenames)
-
----
 
 ## 🎯 Project Objectives
 
